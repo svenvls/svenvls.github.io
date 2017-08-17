@@ -20,7 +20,7 @@ body{
 	
 	background: url("https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/19657005_653575464840445_1239907533261149086_n.jpg?oh=fa597d0ad28b589e4c58228b145c729d&oe=5A19289C");
 	background-repeat: no-repeat;
-	background-size: 60%;
+	background-size: 60% 100%;
 	/*background-size: cover;*/
 	background-position: center top;
 	/*font-family: 'Lato', sans-serif;*/
